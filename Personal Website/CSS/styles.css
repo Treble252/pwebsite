@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #40514e;
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Pangolin', cursive;
+    font-size: 5.25rem;
+    line-height: 2;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+}
+
+h3, a {
+    color: #11999E
+}
+
+hr {
+    width: 4%;
+    border-color: #eaf6f6;
+    border: dotted 6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6
+}
+
+p {
+    font-size: 18px;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    margin-top: 0;
+    position: relative;
+    padding-top: 100px; 
+}
+
+.top-cloud {
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    height: 225px;
+}
+
+.bottom-container p {
+    color: #EAf6f6;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 450px;
+    bottom: 300px
+}
+
+.btn{
+    background-color: #66bfbf;
+    color: #eaf6f6;
+    padding: 15px 32px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.btn:hover {
+    background-color: #eaf6f6;
+    color: #40514e;
+}
+
+.copywrite {
+    position: relative;
+    top: 3.75rem;
+}
+
+.contact-me {
+    padding-bottom: 5rem;
+}
+
+.contact-me p {
+    padding-bottom: 20px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.footer-link {
+    font-size: 1.3rem;
+    padding: 1.5rem 1.2rem;
+    position: relative;
+    top: 3rem;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.middle-container {
+    padding: 100px 0;
+}
+
+.profile-pic {
+    padding-top: 20px;
+    border-radius: 100%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skill-image1, .skill-image2 {
+    width: 25%;
+    
+}
+
+.skill-image1 {
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-image2 {
+    float: right;
+    margin-left: 30px;
+}
